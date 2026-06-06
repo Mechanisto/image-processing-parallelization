@@ -1,7 +1,7 @@
 # GPU Image Processing Pipeline — OpenCL
 
 > Proyek Tugas Akhir Arsitektur Komputer  
-> Implementasi dari scratch menggunakan OpenCL + C++ + Python
+> Image Processing Python menggunakan OpenCL + C++ + Python
 
 ---
 
