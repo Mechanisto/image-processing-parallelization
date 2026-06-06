@@ -1,6 +1,8 @@
 # Build artifacts
 build/
+Release/
 *.so
+*.exe
 *.pyd
 *.o
 *.a
