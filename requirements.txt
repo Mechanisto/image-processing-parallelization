@@ -1,0 +1,17 @@
+# GPU Image Processing Pipeline — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Image I/O (HANYA untuk imread/imwrite/imshow)
+opencv-python>=4.8.0
+
+# Array operations
+numpy>=1.24.0
+
+# Benchmark charts
+matplotlib>=3.7.0
+
+# C++ binding compilation
+pybind11>=2.11.0
+
+# Optional: untuk progress bar pada benchmark
+# tqdm>=4.65.0

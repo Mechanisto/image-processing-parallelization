@@ -1,0 +1,37 @@
+# Build artifacts
+build/
+*.so
+*.pyd
+*.o
+*.a
+*.dll
+*.dylib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+
+# Output files (besar, tidak perlu di-commit)
+outputs/
+benchmark_results/
+
+# Datasets (binary)
+datasets/*.jpg
+datasets/*.png
+datasets/*.jpeg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
